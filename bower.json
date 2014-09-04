@@ -1,6 +1,6 @@
 {
   "name": "angular-ws-mock",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Mock for AngularJS WebSocket service.",
   "homepage": "https://github.com/neoziro/angular-ws-mock",
   "authors": [
