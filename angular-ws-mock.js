@@ -1,4 +1,4 @@
-/*! Angular wsMock v1.1.0 | (c) 2014 Greg Bergé | License MIT */
+/*! Angular wsMock v1.1.1 | (c) 2014 Greg Bergé | License MIT */
 
 angular
 .module('wsMock', [])

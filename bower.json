@@ -1,6 +1,6 @@
 {
   "name": "angular-ws-mock",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Mock for AngularJS WebSocket service.",
   "homepage": "https://github.com/neoziro/angular-ws-mock",
   "authors": [
@@ -16,7 +16,7 @@
     "test.js"
   ],
   "dependencies": {
-    "angular-ws": "~1.0.0"
+    "angular-ws": "~1.1.0"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.23"
