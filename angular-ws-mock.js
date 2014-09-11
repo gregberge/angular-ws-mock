@@ -216,4 +216,16 @@ angular
     this.config.protocols = protocols;
     return this;
   };
+
+  /**
+   * Define transport.
+   *
+   * @param {*} transport
+   * @returns {primusProvider}
+   */
+
+  this.setTransport = function setEndpoint(transport) {
+    this.config.transport = transport;
+    return this;
+  };
 });
